@@ -1,62 +1,87 @@
-# Welcome to My GitHub Profile! 👨‍💻
+# 🌟 Hi there, I'm Ayush Rai! &nbsp; 
+
+## 💫 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I'm a passionate **Backend Developer** who thrives on turning complex problems into elegant solutions. My journey in tech is driven by curiosity, innovation, and a love for continuous learning.
+
+### 🔬 Current Focus
+- 🚀 Diving deep into **Django REST Framework**
+- 🌐 Exploring **WebSocket** technologies
+- 🎯 Preparing for **Google Summer of Code (GSoC)**
+
+### 🌈 Personal Mantra
+> "Code is poetry in motion, and every algorithm tells a story." 
 
 ---
 
-## 👋 About Me
+## 🧰 Technology Arsenal
 
-Hi! I'm **Ayush Rai**, a passionate **Backend Developer** with a love for creating efficient and scalable solutions. I enjoy solving challenging problems and exploring new technologies.
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-- 🌱 **Currently Learning:** Advanced backend concepts, **Django REST Framework**, and **WebSockets**.
-- 🎯 **Goals:** Build impactful projects, contribute to open-source, and prepare for **Google Summer of Code (GSoC)**.
-- 📚 **Interests:** Web Development, Machine Learning, and Competitive Programming.
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=for-the-badge&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Highlighted Projects
+
+| Project | Description | Technologies | Highlights |
+|---------|-------------|--------------|------------|
+| 🏥 [Health-Backend](https://github.com/ayush-github123/Health-Backend) | Comprehensive healthcare management API with secure authentication | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat-square) | 🔐 JWT Authentication <br> 📊 Health Data Management |
+| 📝 [Collab-Editor](https://github.com/ayush-github123/Collab_editor) | Real-time collaborative editor using Django Channels and WebSockets | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?style=flat-square) | 🌐 Real-time Collaboration <br> 📝 QuillJS Integration |
+| 💬 [Realtime-ChatRoom](https://github.com/ayush-github123/Realtime-ChatRoom) | Real-time chat application powered by Django Channels | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?style=flat-square) | 🔄 Real-time Communication <br> 📡 WebSocket Technology |
+| 🛒 [Ecommerce](https://github.com/ayush-github123/Ecommerce) | Full-featured e-commerce platform demonstrating backend complexity | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) | 🛍️ Product Management <br> 🔒 User Authentication |
+| �API [BlogAPI](https://github.com/ayush-github123/BlogAPI) | RESTful Blog API using Django REST Framework | ![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat-square) | 📖 CRUD Operations <br> 🔐 API Design |
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50"/>&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush-github123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-github123&layout=compact&theme=radical"/>
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-github123&theme=react-dark" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-github123&theme=radical" alt="Ayush's Streak"/>
 </p>
 
 ---
 
-## 🚀 Projects
-
-| Project Name          | Description                                                                                      | Progress Bar |
-|-----------------------|--------------------------------------------------------------------------------------------------|--------------|
-| [**Portfolio Website**](https://github.com/ayush-github123/portfolio) | A sleek and responsive portfolio showcasing backend expertise, built using **Django** and **HTML/CSS**. | ![Python](https://img.shields.io/badge/Python-80%25-brightgreen) ![HTML](https://img.shields.io/badge/HTML-20%25-blue) |
-| [**E-Commerce Platform**](https://github.com/ayush-github123/ecommerce) | Inspired by Flipkart, featuring OTP & email verification, advanced user profiles, and a dynamic UI. | ![Django](https://img.shields.io/badge/Django-60%25-brightgreen) ![HTML](https://img.shields.io/badge/HTML-40%25-blue) |
-| [**Chatroom**](https://github.com/ayush-github123/chatroom)            | A real-time chat application using **WebSocket** with seamless communication features.                    | ![Django](https://img.shields.io/badge/Django-70%25-brightgreen) ![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow) |
-| [**Blog API**](https://github.com/ayush-github123/blog-api)            | A fully-featured RESTful API for a blogging platform built with **Django REST Framework**.               | ![Django REST](https://img.shields.io/badge/Django%20REST-90%25-brightgreen) ![Python](https://img.shields.io/badge/Python-10%25-blue) |
-
----
-
-## 📊 GitHub Stats
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-github123&show_icons=true&theme=react" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-github123&layout=compact&theme=react" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-github123&theme=react-dark" alt="Activity Graph" width="100%"/>
+  <a href="mailto:ayushrai31593@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="www.linkedin.com/in/ayush-rai-11a684295">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/AyushRai31593">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/ayush-github123">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayush-github123&theme=react" alt="GitHub Streak" width="48%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
----
 
-## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>&nbsp;
-  <a href="https://github.com/ayush-github123"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>&nbsp;
-  <a href="https://instagram.com/YourProfile"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram"/></a>
-</p>
